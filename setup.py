@@ -40,7 +40,7 @@ setup(
     include_package_data=True,
     keywords='letrista',
     name='letrista',
-    packages=find_packages(include=['letrista', 'letrista.*']),
+    packages=["letrista"],
     test_suite='tests',
     tests_require=test_requirements,
     url='https://github.com/ramoscarlos/letrista',

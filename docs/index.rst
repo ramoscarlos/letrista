@@ -1,20 +1,21 @@
-Welcome to Letrista's documentation!
-======================================
+.. include:: ../README.rst
+
+Documentation
+-------------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   readme
    installation
+   markup
    usage
-   modules
    contributing
+   improve
    authors
    history
 
-Indices and tables
-==================
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. Indices and tables
+.. ==================
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`

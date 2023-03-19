@@ -107,3 +107,6 @@ ENV/
 
 # Sublime workspace
 *.sublime-workspace
+
+# Mac files
+.DS_Store

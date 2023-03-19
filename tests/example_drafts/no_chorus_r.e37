@@ -1,0 +1,9 @@
+In this case, there is a [ChorusR], but there is no
+section to copy from, so the section will not copy anything,
+and will not be rendered since it has no content.
+
+[Verse]
+Verse Line 1
+Verse Line 2
+
+[ChorusR]

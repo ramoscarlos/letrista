@@ -1,0 +1,24 @@
+[tool.poetry]
+name="letrista"
+version="0.1.0"
+description="Python3 package for lyrics writing and formating."
+authors= [
+	'Carlos Ramos <carlos@ramoscarlos.com>'
+]
+license = "MIT"
+readme="README.rst"
+
+[tool.poetry.dependencies]
+python = ">=3.7"
+
+[tool.poetry.dev-dependencies]
+
+[tool.poetry.group.dev.dependencies]
+sphinx-autoapi = "^2.0.1"
+insipid-sphinx-theme = "^0.4.1"
+pytest = "^7.2.2"
+pytest-cov = "^4.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
